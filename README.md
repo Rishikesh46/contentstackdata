@@ -2,4 +2,4 @@ Created a simple express server application that serves blog data. The api end-p
 
    - Hosted on heroku
    
-   https://raw-data.herokuapp.com/blogs/find
+
