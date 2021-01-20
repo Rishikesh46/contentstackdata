@@ -5,13 +5,5 @@
   "section":{"sectionHeading":"What more?","sectionImage":"https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt4c0f52908b189f8c/5f1a2bdeb4bb597a43eb9aa9/business.jpg",
              "sectionContent":[{"subHeading":"For IT & Developers","content":"Easy to maintain, front-end framework agnostic, and extensible integrations — empowering business users and freeing developers."},
                                {"subHeading":"For Business’","content":"Build pages with a rich visual editor, along with scheduling and publishing management tools — all without developer intervention."}
-                              ],
-             
-             "socialLinks": {
-      "twitter": "https://twitter.com/contentstack",
-      "linkedin": "https://www.linkedin.com/company/contentstack",
-      "facebook": "https://www.facebook.com/contentstack",
-      "youtube": "https://www.youtube.com/contentstack",
-      "github": "https://github.com/contentstack"
-    }
+                              ]
             }}]
